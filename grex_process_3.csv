@@ -1,0 +1,8 @@
+Module,Operation,Operation Duration
+out,3x100,200
+arm,0x500,30
+arm,0x600,30
+add,2x300,7000
+arm,0x500,30
+arm,0x600,30
+out,3x100,100000

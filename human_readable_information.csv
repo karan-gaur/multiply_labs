@@ -1,0 +1,14 @@
+Robotic Format,Human Readable Format
+Operations,Operations
+1x000,Incubate
+0x500,Pick GRex
+0x600,Place GRex
+2x200,Attach / Detach Couplers
+2x300,Pump Media to GRex
+3x100,Wait for operator
+Modules,Modules
+inc,Incubator
+out,Output for Scientist
+add,Add Media
+smp,Sample
+arm,Robotic Arm
