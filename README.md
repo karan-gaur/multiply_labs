@@ -46,13 +46,15 @@ Currently, the terminal is the most effective interface for tracking process exe
 ## Usage Instructions
 
 0. Install the dependecies using requirements.txt (Although there is just 1)
-   ````bash
-   pip install requirements.txt```
-   ````
+   ```bash
+   pip install requirements.txt
+   
 1. Ensure that all required CSV files are correctly formatted and placed in the designated directory.
 2. Modify the `process_files` list in the script to include the desired files.
 3. Run the script using Python.
-4. Observe the execution time and downtime statistics in the terminal.
+   ```bash
+   python3 soln.py
+5. Observe the execution time and downtime statistics in the terminal.
 
 ---
 
